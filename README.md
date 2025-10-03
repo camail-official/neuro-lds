@@ -9,7 +9,8 @@ This repository contains the code for our ICLR submission *Neural Low-Discrepanc
 <p align="center">
   <img src="img/diagram.png" alt="NeuroLDS architecture" width="600"/>
 </p>
-Figure: Overview of the NeuroLDS architecture.</em></p>
+
+*Figure: Overview of the NeuroLDS architecture.*
 
 
 ## Key files & scripts
