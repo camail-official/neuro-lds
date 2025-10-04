@@ -4,7 +4,7 @@
 
 
 ## Overview
-This repository contains the code for our ICLR submission *Neural Low-Discrepancy Sequences*. It provides PyTorch implementations for model training, discrepancy-based fine‑tuning, and reproducible experiments.
+This repository contains the code for our preprint *Neural Low-Discrepancy Sequences*. It provides PyTorch implementations for model training, discrepancy-based fine‑tuning, and reproducible experiments.
 
 <p align="center">
   <img src="img/diagram.png" alt="NeuroLDS architecture" width="600"/>
