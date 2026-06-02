@@ -1,10 +1,16 @@
-# Neural Low-Discrepancy Sequences
-**Authors**: Michael Etienne Van Huffel, Nathan Kirk, Makram Chahine, Daniela Rus, T. Konstantin Rusch
+<h1 align="center">Neural Low-Discrepancy Sequences</h1>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.03745">Paper</a> • ICML 2026
+</p>
 
+<p align="center">
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.10+-blue.svg" alt="Python 3.10+"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+</p>
 
 ## Overview
-This repository contains the code for our preprint *Neural Low-Discrepancy Sequences*. It provides PyTorch implementations for model training, discrepancy-based fine‑tuning, and reproducible experiments.
+This repository contains the code for our ICML 2026 paper *Neural Low-Discrepancy Sequences*. It provides PyTorch implementations for model training, discrepancy-based fine‑tuning, and reproducible experiments.
 
 <p align="center">
   <img src="img/diagram.png" alt="NeuroLDS architecture" width="600"/>
